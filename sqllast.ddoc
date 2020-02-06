@@ -18,7 +18,7 @@
     <Servers>
       <Server>
         <Provider>aa8afe9c-7d62-4564-b477-c12e62e0f440</Provider>
-        <ConnectionString>Data Source=dbfsqlsrv\sqllast;Encrypt=False;Initial Catalog=svetlanafet_test;Integrated Security=False;User ID=su</ConnectionString>
+        <ConnectionString>Data Source=dbfsqlsrv\sqllast;Encrypt=False;Initial Catalog=svetlanafet_test;Integrated Security=False;User ID=sa</ConnectionString>
         <ConnectionName>svetlanafet_test.dbfsqlsrv\sqllast</ConnectionName>
         <CategoryId>00000000-0000-0000-0000-000000000000</CategoryId>
       </Server>
